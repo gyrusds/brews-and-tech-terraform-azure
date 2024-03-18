@@ -9,12 +9,12 @@ Para obtener más información sobre la sesión consultar el [post de basecamp](
 ## ¿Qué vamos a ver?
 
 1. Providers
-2. Resources
+2. Resources y data sources.
 3. Locals y variables
-4. Terraform init
-5. Plan vs apply
+4. `terraform init`.
+5. `terraform plan` y `terraform apply`.
 6. Tfstate
-7. Destroy
+7. `terraform destroy`
 
 ## Infraestructura
 
